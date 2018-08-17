@@ -1,0 +1,12 @@
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\bin\Release\Properties\yahoo.wav
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\bin\Release\Hello World!.exe.config
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\bin\Release\Hello World!.exe
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\bin\Release\Hello World!.pdb
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello World!.g.resources
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello_World_.Form1.resources
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello_World_.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello World!.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello World!.exe
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello World!.pdb
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello World!.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\Windows Form Applications\Hello World!\Hello World!\obj\Release\Hello World!.csproj.CoreCompileInputs.cache
